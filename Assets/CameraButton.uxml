@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement name="Frame" style="height: 40px; width: auto;">
+        <ui:Button text="Change Camera&#10;" display-tooltip-when-elided="true" name="Button" style="height: 36px; -unity-font: url(&apos;project://database/Library/unity%20default%20resources?fileID=10102&amp;guid=0000000000000000e000000000000000&amp;type=0#Arial&apos;); width: 107px;" />
+    </ui:VisualElement>
+    <ui:VisualElement name="BrightnessFrame" style="height: 47px; width: 132px; position: absolute; top: -4px; left: 140px;">
+        <ui:Button text="Change Brightness&#10;" display-tooltip-when-elided="true" name="BrightnessButton" style="height: 36px; -unity-font: url(&apos;project://database/Library/unity%20default%20resources?fileID=10102&amp;guid=0000000000000000e000000000000000&amp;type=0#Arial&apos;); width: 121px; position: absolute; top: 6px; left: 10px;" />
+    </ui:VisualElement>
+</ui:UXML>
