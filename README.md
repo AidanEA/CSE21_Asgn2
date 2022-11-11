@@ -10,3 +10,6 @@ The streetlight is from the StreetLights pack
 The skybox is from SkySeries Freebie pack
 The phone is from the Free Phone pack
 Everything else is created from me or by using primitive shapes such as my planes below the roads, my lights, rain emitter, rain subemitter, my character
+
+Note: In this project I use a Spot Light for the streetlight lights, A Directional Light to simulate moonlight, A Pointlight to brighten up the face, and an emission material on the phone
+I use a rain particle emitter and a puddle subemitter for the rain
